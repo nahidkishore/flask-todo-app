@@ -2,7 +2,7 @@
 ` pip install Flask `
 ### You can run this application using the following command:
 ` python app.py `
-Open your browser and go to http://localhost:5000 to see the "Hello, World!" message.
+Open your browser and go to http://localhost:5000 to see the "<h1>Simple To-Do App</h1>" message.
 ### Step 2:  Building a Docker Image
 ```
 # Use an official Python runtime as a parent image
